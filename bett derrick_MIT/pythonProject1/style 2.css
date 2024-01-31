@@ -1,0 +1,44 @@
+
+.text-one {
+    font-size: 25px;
+    color: blue;
+}
+.home .text-two{
+    font-size: 75px;
+    font-weight: 600;
+    margin-left: -3px;
+}
+.home .text-three{
+    font-size: 40px;
+    margin: 5px;
+    color: bisque;
+}
+.home.text-four{
+    font-size: 50px;
+    margin: 5px;
+    color: azure;
+}
+.home{
+    background-image:url("cf061b4a05641b5cbf0a23bbbf0009ca.jpg");
+}
+.home .button button:{
+    margin: 14px 0;
+}
+.home.button{
+    padding: 8px 16px;
+    outline: none;
+    border-radius: 6px;
+    font-size: 25px;
+    font-weight: 400;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    border: 2px solid transparent;
+}
+.home .button button:hover{
+    border-color: blue;
+    background-color: white;
+    color:blue ;
+}
+
+

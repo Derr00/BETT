@@ -1,0 +1,38 @@
+.home .text-one{
+    font-size: 45px;
+    font-weight: 30;
+    text-align: center;
+    color: black;
+}
+.home .text-two{
+    font-size: 25px;
+    text-align: center;
+}
+.home.text-three{
+    font-size: 25px;
+    text-align: center;
+
+}
+home.button{
+    padding: 8px 16px;
+    outline: none;
+    border-radius: 6px;
+    font-size: 25px;
+    font-weight: 400;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    border: 2px solid transparent;
+    text-align-all: center;
+}
+.home .button button:hover{
+    border-color: blue;
+    background-color: white;
+    color:blue ;
+}
+.home {
+    background-image: url("img.png");
+    background-size: cover;}
+
+
+
